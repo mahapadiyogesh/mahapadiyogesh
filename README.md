@@ -1,6 +1,18 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1736,100:00D9FF&height=220&section=header&text=INSIGHTFLOWAI&fontSize=48&fontColor=00D9FF&fontAlignY=38&desc=AI-Powered%20Data%20Analysis%20%26%20Dashboard%20Generator&descAlignY=60&descSize=16&descColor=D7E3FF" width="100%"/>
+<div align="center">
+
+<h1>⚡ INSIGHTFLOWAI</h1>
+
+<p><strong>AI-Powered Data Analysis & Dynamic Dashboard Generator</strong></p>
+
+<p>
+Transforming raw datasets into
+<strong>KPIs · Charts · Filters · Insights · Dashboards</strong>
+</p>
+
+</div>
 
 <br/>
 
